@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elio</h1>
-<h3 align="center">I'm a 17 year old musician and developer. I have a passion for creating things, whether it's music or code!</h3>
+<h3 align="center">I'm a 18 year old musician and developer. I have a passion for creating things, whether it's music or code!</h3>
 
 - 🔭 I’m currently working on **multiple tweaks & iOS apps**
 
